@@ -1,5 +1,31 @@
 # Introduction
 
+    据外媒报道，微软近日推出了一套先进的量子编程解决方案，让编程人员可以更好地学习量子计算及其相关的 Q# 编程语言。
+
+    量子计算是一项有望彻底改变科技行业的事情，与当前的“传统”计算机相比，新机器将拥有强达数倍的性能，
+
+    能够轻松攻克此前从未揭开的难题、让当前的各种加密手段瞬间化为无形。
+
+    微软量子团队表示，Katas 是一款非常优秀的编程语言学习工具，主要依赖于几个简单的学习原则：
+    主动学习，增量复杂性和反馈。
+
+    Quantum Katas 的一系列教程可以自定义进度，旨在同时教授量子计算和 Q# 编程元素。
+    从基础到具有一定挑战性，Katas 提供了一系列关于量子计算主题的任务。
+    每项任务都需要填写代码，从开始的只有一行代码，到后面可能需要填写一大片代码。
+
+    到目前为止，该项目主要涵盖以下主题：
+
+      1. 基本量子计算门（Basic quantum computing gates）：
+                 专注于量子计算中使用的主要单量子比特和多量子比特门的任务。
+
+      2. 叠加（Superposition）： 专注于在一个或多个量子比特上准备某个叠加状态的任务。
+
+      3. 测量（Measurements）：专注于使用测量来区分量子态的任务。
+
+      4. Deutsch–Jozsa 算法（Deutsch–Jozsa algorithm）：专注于编写实现经典函数的量子的任务，
+         以及 Bernstein-Vazirani 和 Deutsch-Jozsa 算法。
+
+
 The Quantum Katas are a series of self-paced tutorials aimed at teaching you elements of quantum computing and Q# programming at the same time.
 
 Each kata covers one topic.
